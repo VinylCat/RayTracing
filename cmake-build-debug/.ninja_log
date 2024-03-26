@@ -1,0 +1,10 @@
+# ninja log v5
+2	2909	7263215359499636	CMakeFiles/RayTracing.dir/main.cpp.obj	c91c47613eaea5d4
+2909	3449	7263215364948031	bin/RayTracing.exe	9e5019c7764d8b02
+0	82	7263220761395869	build.ninja	4e7ef6bbd654882c
+2	2776	7263221277316585	CMakeFiles/RayTracing.dir/main.cpp.obj	c91c47613eaea5d4
+2776	3288	7263221282490833	bin/RayTracing.exe	9e5019c7764d8b02
+3	2891	7263222825816487	CMakeFiles/RayTracing.dir/main.cpp.obj	c91c47613eaea5d4
+2891	3416	7263222831121532	bin/RayTracing.exe	9e5019c7764d8b02
+2	3090	7263269588721788	CMakeFiles/RayTracing.dir/main.cpp.obj	c91c47613eaea5d4
+3091	3681	7263269594682215	bin/RayTracing.exe	9e5019c7764d8b02
